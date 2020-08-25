@@ -26,7 +26,7 @@
     "front-matter": "2.1.0",
     "graphiql": "0.7.8",
     "graphql": "0.7.0",
-    "highcharts": "^5.0.7",
+    "highcharts": "^8.2.0",
     "history": "3.0.0",
     "isomorphic-style-loader": "1.0.0",
     "jquery": "^3.1.1",
